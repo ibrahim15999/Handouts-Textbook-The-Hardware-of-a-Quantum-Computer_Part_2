@@ -1,0 +1,2 @@
+# Handouts-Textbook-The-Hardware-of-a-Quantum-Computer_Part_2-----Edit by Ibrahim Mohamed Mohamed Elsayed
+3-2-2020----This course aims to give you an understanding of the scientific basis behind the quantum computer and a quantum internet. Our challenge to you is to really understand the working principles of the different layers of a quantum computer and a quantum internet. This course is about getting an insight into the electronics, hardware and software that are essential for a practical quantum computer and a quantum internet.
